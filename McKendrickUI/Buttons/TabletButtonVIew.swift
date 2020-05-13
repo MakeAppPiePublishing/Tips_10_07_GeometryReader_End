@@ -14,7 +14,7 @@
 //  For more code, go to http://bit.ly/AppPieGithub
 
 // Quarter Share, Ishmael Wang, Lois McKendrick, and
-// Trader Tales from the Golden Age of the  Solar Clipper by Nathan Lowell
+// Trader Tales from the Golden Age of the  Solar Clipper Copyright Nathan Lowell. Learn more here:  https://www.amazon.com/Nathan-Lowell/e/B003D54RY4
 import SwiftUI
 
 struct TabletButtonView:View{
